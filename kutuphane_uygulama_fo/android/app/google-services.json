@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "799749961987",
+    "project_id": "kutuphaneuygulamafo",
+    "storage_bucket": "kutuphaneuygulamafo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799749961987:android:3e79e96d8471da0c979136",
+        "android_client_info": {
+          "package_name": "com.example.kutuphane_uygulama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtNlKNVn3mhwKDMRsvyniXZyaOdIjLEUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799749961987:android:0de4cf36ecc4dc4e979136",
+        "android_client_info": {
+          "package_name": "com.example.kutuphane_uygulama_fo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtNlKNVn3mhwKDMRsvyniXZyaOdIjLEUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
